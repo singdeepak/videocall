@@ -1,0 +1,46 @@
+
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgrey;
+}
+
+button{
+    color: white;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    margin-left: 0.5rem;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    background-color: lightgreen;
+}
+
+button:hover{
+    color: black;
+    background-color: white;
+    border: 2px solid lightgreen;
+}
+
+button:active{
+    transform: scale(0.9);
+}
+
+input{
+    padding: 0.5rem 1rem;
+    border: none;
+    height: 5vh;
+    outline: none;
+    font-size: 1rem;
+    margin-right: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+::placeholder{
+    font-size: 1rem;
+}
