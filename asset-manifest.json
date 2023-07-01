@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videocall.git/static/css/main.28e8a075.css",
+    "main.js": "/videocall.git/static/js/main.adfe56c3.js",
+    "static/js/787.48651ff5.chunk.js": "/videocall.git/static/js/787.48651ff5.chunk.js",
+    "index.html": "/videocall.git/index.html",
+    "main.28e8a075.css.map": "/videocall.git/static/css/main.28e8a075.css.map",
+    "main.adfe56c3.js.map": "/videocall.git/static/js/main.adfe56c3.js.map",
+    "787.48651ff5.chunk.js.map": "/videocall.git/static/js/787.48651ff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e8a075.css",
+    "static/js/main.adfe56c3.js"
+  ]
+}
